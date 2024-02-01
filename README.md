@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We're Robu.in</h1>
-<h3 align="center">We're India's Largest Electronic Storer</h3>
+<h3 align="center">We're India's Largest Electronic Store</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robu-in&label=Profile%20views&color=0e75b6&style=flat" alt="robu-in" /> </p>
 
