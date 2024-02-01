@@ -12,7 +12,7 @@
 <h3 align="left">Follow us on:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@RobuInlabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="robu.in" height="30" width="40" /></a>
-<a href="https://robu.in/category/blogs" target="blank"><img align="center" src="https://icons8.com/icon/GsMdC9NCKCAD/blogger" alt="https://robu.in/category/blogs/" height="30" width="40" /></a>
+<a href="https://robu.in/category/blogs" target="blank"><img align="center" src="https://img.icons8.com/fluency/240/blogger.png" alt="https://robu.in/category/blogs/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
